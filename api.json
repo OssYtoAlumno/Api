@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 30.00,
+        "id": 1,
+        "title": "Papas",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61Efu+cxeoL._AC_SL1200_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 2,
+        "title": "Bebida",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/41C9guNiT0S._AC_.jpg"
+    },
+    {
+        "precio": 115.00,
+        "id": 3,
+        "title": "Bebida Energetica",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/51i6+jcu72L._AC_SL1000_.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 4,
+        "title": "Cacahuates",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61LOkIU5tDL._AC_SL1000_.jpg"
+    },
+    {
+        "precio": 5.00,
+        "id": 5,
+        "title": "Chicles",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61ijyuA95VL._AC_SL1000_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 6,
+        "title": "Halls",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/8170ZmtPc1L._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 7,
+        "title": "Gomitas",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61KcUGnhNNL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 8,
+        "title": "Gomitas con chile",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/91be40-s0RL._AC_SL1500_.jpg"
+    },
+    {
+        "precio":25.00,
+        "id": 9,
+        "title": "Comitas Acidas",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/71EAaPB8xTL._AC_SL1200_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 10,
+        "title": "Chocolate",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/61zdS6H6Q4L._AC_SL1000_.jpg"
+    },
+    {
+        "precio": 35.00,
+        "id": 11,
+        "title": "Carne seca",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81yLQvO5nVL._AC_SL1500_.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 12,
+        "title": "Papas fritas",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81mVrdioyFL._AC_SL1500_.jpg"
+    }
+]
